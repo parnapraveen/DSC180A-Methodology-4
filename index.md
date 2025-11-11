@@ -1,8 +1,9 @@
 Your Name: Parna Praveen
+
 UCSD Email: ppraveen@ucsd.edu
 
-
 Section: B16
+
 Mentor: Abed El-Husseini and Balaji Veeramani
 
 **What is the most interesting topic covered in your domain this quarter?**
