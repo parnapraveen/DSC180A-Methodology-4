@@ -1,10 +1,7 @@
-Your Name: Parna Praveen
-
-UCSD Email: ppraveen@ucsd.edu
-
-Section: B16
-
-Mentor: Abed El-Husseini and Balaji Veeramani
+Your Name: Parna Praveen  
+UCSD Email: ppraveen@ucsd.edu  
+Section: B16  
+Mentor: Abed El-Husseini and Balaji Veeramani  
 
 **What is the most interesting topic covered in your domain this quarter?**
 The most interesting topic we covered in our domain this quarter was on genetics and how traits can be analyzed through knowledge graph structures. Seeing how protein interactions and common causes of diseases can be mapped out with graphs was fascinating because it's easy to assume that knowledge graphs are only useful for concept in Computer Science. The idea of weighted graphs when analyzing how various traits express themselves in genetics was also an interesting concept when finding the overlap between biomedical concepts and knowledge graphs in Data Science. 
